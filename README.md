@@ -17,7 +17,7 @@ An android + ML-based application that detects plant diseases from leaf images u
 - CameraX API
 - Python (TensorFlow/Keras) for model training
 
-### Project Roadmap
+## Project Roadmap
 | Week | Goals |
 |------|-------|
 |1     | Dataset perp + model training |
