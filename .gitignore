@@ -32,3 +32,13 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# ML model files
+*.h5
+*.tflite
+*.ckpt
+*.pb
+
+# Dataset
+dataset/
+data/
